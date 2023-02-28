@@ -1,6 +1,6 @@
 # Eco-evolutionary course Fribourg
 
-This project includes python code for simple models that appears in the course
+This project includes python code for simple models that appears in the course.
 
 # Fist week: Exponential growth population
 
