@@ -8,4 +8,6 @@ Difference between discrete time model and continuous time model
 
 # Second week: Leslie matrix
 
-Structural population dynamics 
+Structural population dynamics
+
+# Third week: Replicator equation
